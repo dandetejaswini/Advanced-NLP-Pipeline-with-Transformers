@@ -1,4 +1,4 @@
-```markdown
+
 # Advanced NLP Pipeline with Transformers  
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)  
@@ -129,11 +129,6 @@ Explore my [Jupyter Notebook Examples](notebooks/exploration.ipynb) for:
 </div>  
 ```
 
-### **Key Improvements**:  
-1. **Added "Key Differentiators"** section at the top to highlight competitive advantages.  
-2. **Enhanced Tables**: Better alignment, added Colab badges, and real-world metrics.  
-3. **Simplified Setup**: Emphasized the "no CUDA compilation" advantage.  
-4. **Clearer Architecture**: Added comments about pre-tested configs and test coverage.  
-5. **Deployment Flexibility**: Added both Docker and FastAPI options with optimized code.  
 
-This version ensures **better GitHub rendering**, **stronger project positioning**, and **clearer value propositions** for users. Let me know if you'd like any refinements! 🚀
+
+
