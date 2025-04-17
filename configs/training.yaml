@@ -1,0 +1,8 @@
+model_name: "bert-base-uncased"
+output_dir: "../models/fine_tuned"
+logging_dir: "../logs"
+learning_rate: 2e-5
+batch_size: 16
+num_epochs: 3
+save_steps: 500
+logging_steps: 100

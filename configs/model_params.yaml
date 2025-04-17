@@ -1,0 +1,6 @@
+default:
+  model_name: "bert-base-uncased"
+  max_length: 128
+  batch_size: 16
+  learning_rate: 2e-5
+  num_epochs: 3
