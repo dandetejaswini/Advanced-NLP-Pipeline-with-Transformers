@@ -1,4 +1,3 @@
-
 # Advanced NLP Pipeline with Transformers  
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)  
@@ -8,22 +7,23 @@
 
 **Production-grade NLP pipelines powered by state-of-the-art transformer models**  
 
-## 🔑 **Key Differentiators**  
-✅ **Optimized for Low Latency** – 3x faster inference than vanilla HuggingFace pipelines  
-✅ **One-Click Fine-Tuning** – Pre-configured training scripts for custom datasets  
-✅ **Enterprise Scalability** – Built-in support for batch processing & distributed inference  
-✅ **Model Agnostic** – Easily swap SOTA models (BERT, GPT, T5, etc.) with config changes  
-✅ **Minimal Dependencies** – Lightweight, pure-Python implementation  
-
----
-
 ## 📖 **Table of Contents**  
+- [🔑 Key Differentiators](#-key-differentiators)  
 - [✨ Features](#-features)  
 - [🚀 Quick Start](#-quick-start)  
 - [🏗️ Architecture](#️-architecture)  
 - [📊 Benchmarks](#-benchmarks)  
 - [🚀 Deployment](#-deployment)  
 - [📚 Documentation](#-documentation)  
+
+---
+
+## 🔑 **Key Differentiators**  
+✅ **Optimized for Low Latency** – 3x faster inference than vanilla HuggingFace pipelines  
+✅ **One-Click Fine-Tuning** – Pre-configured training scripts for custom datasets  
+✅ **Enterprise Scalability** – Built-in support for batch processing & distributed inference  
+✅ **Model Agnostic** – Easily swap SOTA models (BERT, GPT, T5, etc.) with config changes  
+✅ **Minimal Dependencies** – Lightweight, pure-Python implementation  
 
 ---
 
@@ -122,12 +122,7 @@ Explore my [Jupyter Notebook Examples](notebooks/exploration.ipynb) for:
 - Custom training workflows
 - Performance optimization tips
 
----
 
-<div align="center">  
-  <strong>🚀 Built for developers who need production-ready NLP without the boilerplate.</strong>  
-</div>  
-```
 
 
 
