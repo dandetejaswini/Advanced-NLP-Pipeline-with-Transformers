@@ -7,27 +7,27 @@
 
 **Production-grade NLP pipelines powered by state-of-the-art transformer models**  
 
-## 📖 **Table of Contents**  
-- [🔑 Key Differentiators](#-key-differentiators)  
-- [✨ Features](#-features)  
-- [🚀 Quick Start](#-quick-start)  
-- [🏗️ Architecture](#️-architecture)  
-- [📊 Benchmarks](#-benchmarks)  
-- [🚀 Deployment](#-deployment)  
-- [📚 Documentation](#-documentation)  
+## **Table of Contents**  
+- [Key Differentiators](#-key-differentiators)  
+- [Features](#-features)  
+- [Quick Start](#-quick-start)  
+- [Architecture](#️-architecture)  
+- [Benchmarks](#-benchmarks)  
+- [Deployment](#-deployment)  
+- [Documentation](#-documentation)  
 
 ---
 
-## 🔑 **Key Differentiators**  
-✅ **Optimized for Low Latency** – 3x faster inference than vanilla HuggingFace pipelines  
-✅ **One-Click Fine-Tuning** – Pre-configured training scripts for custom datasets  
-✅ **Enterprise Scalability** – Built-in support for batch processing & distributed inference  
-✅ **Model Agnostic** – Easily swap SOTA models (BERT, GPT, T5, etc.) with config changes  
-✅ **Minimal Dependencies** – Lightweight, pure-Python implementation  
+## **Key Differentiators**  
+   **Optimized for Low Latency** – 3x faster inference than vanilla HuggingFace pipelines  
+   **One-Click Fine-Tuning** – Pre-configured training scripts for custom datasets  
+   **Enterprise Scalability** – Built-in support for batch processing & distributed inference  
+   **Model Agnostic** – Easily swap SOTA models (BERT, GPT, T5, etc.) with config changes  
+   **Minimal Dependencies** – Lightweight, pure-Python implementation  
 
 ---
 
-## ✨ **Features**  
+## **Features**  
 
 <div align="center">  
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🚀 **Quick Start**  
+## **Quick Start**  
 
 ### 1. **Installation**  
 ```bash  
@@ -57,12 +57,12 @@ from src.pipelines import TextSummarizer
 
 summarizer = TextSummarizer(model="facebook/bart-large-cnn")  # Load with 1 line  
 summary = summarizer("Your long article text...", max_length=130)  
-print(f"📝 Summary: {summary}")  
+print(f"Summary: {summary}")  
 ```  
 
 ---
 
-## 🏗️ **Architecture**  
+## **Architecture**  
 
 ```text  
 Advanced-NLP-Pipeline-with-Transformers/  
@@ -79,7 +79,7 @@ Advanced-NLP-Pipeline-with-Transformers/
 
 ---
 
-## 📊 **Benchmarks**  
+## **Benchmarks**  
 
 | Task              | Model         | Hardware      | Speed (tokens/sec) | Accuracy |  
 |-------------------|---------------|---------------|--------------------|----------|  
@@ -89,7 +89,7 @@ Advanced-NLP-Pipeline-with-Transformers/
 
 ---
 
-## 🚀 **Deployment**  
+## **Deployment**  
 
 ### **Option 1: Docker (Production)**  
 ```dockerfile  
@@ -115,7 +115,7 @@ async def analyze(text: str):
 
 ---
 
-## 📚 **Documentation**  
+## **Documentation**  
 
 Explore my [Jupyter Notebook Examples](notebooks/exploration.ipynb) for:
 - Advanced pipeline configuration
