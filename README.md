@@ -8,13 +8,13 @@
 **Production-grade NLP pipelines powered by state-of-the-art transformer models**  
 
 ## **Table of Contents**  
-- [Key Differentiators](#-key-differentiators)  
-- [Features](#-features)  
-- [Quick Start](#-quick-start)  
-- [Architecture](#️-architecture)  
-- [Benchmarks](#-benchmarks)  
-- [Deployment](#-deployment)  
-- [Documentation](#-documentation)  
+- [Key Differentiators]  
+- [Features]
+- [Quick Start]  
+- [Architecture]  
+- [Benchmarks]
+- [Deployment] 
+- [Documentation] 
 
 ---
 
